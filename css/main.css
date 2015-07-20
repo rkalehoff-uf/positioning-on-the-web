@@ -4,3 +4,20 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+.container {
+    background: rgb(170, 57, 57);
+    margin: auto;
+    padding: 16px;
+    width: 1000px;
+}
+
+.content {
+    background: rgb(38, 132, 132);
+    padding: 8px;
+}
+
+.sidebar {
+    background: rgb(122, 159, 53);
+    padding: 8px;
+}
