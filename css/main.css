@@ -14,10 +14,14 @@ html {
 
 .content {
     background: rgb(38, 132, 132);
+    float: left;
     padding: 8px;
+    width: 700px;
 }
 
 .sidebar {
     background: rgb(122, 159, 53);
+    float: right;
     padding: 8px;
+    width: 268px;
 }
